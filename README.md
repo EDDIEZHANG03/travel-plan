@@ -1,8 +1,8 @@
-# Turkey + Egypt 14-Day Trip Plan
+# Turkey + Egypt 2026 Trip Plan
 
-This repository contains the current travel plan and mobile map page.
+This repository contains the current mobile-first travel plan for a July 2026 route from Wuhan to Turkey and Egypt.
 
-- `index.html`: mobile-first interactive itinerary map
-- `trip_plan.md`: readable itinerary notes
+- `index.html`: deployable Leaflet itinerary map for phones
+- `trip_plan.md`: detailed readable itinerary notes
 
-Update the plan locally, commit the changes, then push to GitHub so the deployed page stays current.
+Current route: Wuhan -> Istanbul -> Cappadocia -> Antalya -> Fethiye -> Cairo -> Hurghada -> Shanghai/Wuhan.
