@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-06-27T00:00:00+08:00",
+  "notice": "Only the most recent saved query is displayed. The agent must pause for manual login, CAPTCHA, SMS, payment, or ticketing confirmation.",
+  "segments": [
+    {
+      "id": "wuh-ist-2026-07-15",
+      "date": "2026-07-15",
+      "origin": {
+        "iata": "WUH",
+        "nameZh": "武汉天河国际机场"
+      },
+      "destination": {
+        "iataOptions": [
+          "IST",
+          "SAW"
+        ],
+        "nameZh": "伊斯坦布尔"
+      },
+      "tripType": "one-way",
+      "passengers": 1,
+      "cabin": "economy",
+      "providers": [
+        {
+          "name": "Ctrip",
+          "type": "china-ota",
+          "webUrl": "https://flights.ctrip.com/online/list/oneway-WUH-IST?depdate=2026-07-15",
+          "appUrl": "ctrip://wireless/flight",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Google Flights",
+          "type": "metasearch",
+          "webUrl": "https://www.google.com/travel/flights",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Trip.com",
+          "type": "international-ota",
+          "webUrl": "https://www.trip.com/flights/",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Airline Official Website",
+          "type": "airline",
+          "webUrl": "",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        }
+      ],
+      "latestQuery": {
+        "provider": "public planning estimate",
+        "flightNumber": "",
+        "airline": "",
+        "departureAt": "",
+        "arrivalAt": "",
+        "durationMinutes": null,
+        "stops": null,
+        "baggage": "Needs recheck on ticketing platform",
+        "fareName": "",
+        "amount": 4500,
+        "currency": "CNY",
+        "cnyAmount": 4500,
+        "queriedAt": "2026-06-27T00:00:00+08:00",
+        "bookingUrl": "https://www.google.com/travel/flights",
+        "notes": "Budget estimate for one-way international segment; actual Ctrip price not queried after login."
+      }
+    },
+    {
+      "id": "ist-asr-nav-2026-07-18",
+      "date": "2026-07-18",
+      "origin": {
+        "iata": "IST",
+        "nameZh": "伊斯坦布尔"
+      },
+      "destination": {
+        "iataOptions": [
+          "ASR",
+          "NAV"
+        ],
+        "nameZh": "卡帕多奇亚"
+      },
+      "tripType": "one-way",
+      "passengers": 1,
+      "cabin": "economy",
+      "providers": [
+        {
+          "name": "Ctrip",
+          "type": "china-ota",
+          "webUrl": "https://flights.ctrip.com/online/list/oneway-IST-ASR?depdate=2026-07-18",
+          "appUrl": "ctrip://wireless/flight",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Google Flights",
+          "type": "metasearch",
+          "webUrl": "https://www.google.com/travel/flights",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Trip.com",
+          "type": "international-ota",
+          "webUrl": "https://www.trip.com/flights/",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Airline Official Website",
+          "type": "airline",
+          "webUrl": "",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        }
+      ],
+      "latestQuery": {
+        "provider": "public planning estimate",
+        "flightNumber": "",
+        "airline": "",
+        "departureAt": "",
+        "arrivalAt": "",
+        "durationMinutes": null,
+        "stops": null,
+        "baggage": "Needs recheck on ticketing platform",
+        "fareName": "",
+        "amount": 27.44,
+        "currency": "EUR",
+        "cnyAmount": 212,
+        "queriedAt": "2026-06-27T00:00:00+08:00",
+        "bookingUrl": "https://www.obilet.com/en/flight-ticket/istanbul-kayseri",
+        "notes": "Obilet public starting fare from previous query."
+      }
+    },
+    {
+      "id": "ayt-cai-2026-07-24",
+      "date": "2026-07-24",
+      "origin": {
+        "iata": "AYT",
+        "nameZh": "安塔利亚"
+      },
+      "destination": {
+        "iataOptions": [
+          "CAI"
+        ],
+        "nameZh": "开罗"
+      },
+      "tripType": "one-way",
+      "passengers": 1,
+      "cabin": "economy",
+      "providers": [
+        {
+          "name": "Ctrip",
+          "type": "china-ota",
+          "webUrl": "https://flights.ctrip.com/online/list/oneway-AYT-CAI?depdate=2026-07-24",
+          "appUrl": "ctrip://wireless/flight",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Google Flights",
+          "type": "metasearch",
+          "webUrl": "https://www.google.com/travel/flights",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Trip.com",
+          "type": "international-ota",
+          "webUrl": "https://www.trip.com/flights/",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Airline Official Website",
+          "type": "airline",
+          "webUrl": "",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        }
+      ],
+      "latestQuery": {
+        "provider": "public planning estimate",
+        "flightNumber": "",
+        "airline": "",
+        "departureAt": "",
+        "arrivalAt": "",
+        "durationMinutes": null,
+        "stops": null,
+        "baggage": "Needs recheck on ticketing platform",
+        "fareName": "",
+        "amount": 113.32,
+        "currency": "EUR",
+        "cnyAmount": 877,
+        "queriedAt": "2026-06-27T00:00:00+08:00",
+        "bookingUrl": "https://www.obilet.com/en/flight-ticket/antalya-cairo",
+        "notes": "Obilet public starting fare from previous query."
+      }
+    },
+    {
+      "id": "cai-hrg-2026-07-27",
+      "date": "2026-07-27",
+      "origin": {
+        "iata": "CAI",
+        "nameZh": "开罗"
+      },
+      "destination": {
+        "iataOptions": [
+          "HRG"
+        ],
+        "nameZh": "赫尔格达"
+      },
+      "tripType": "one-way",
+      "passengers": 1,
+      "cabin": "economy",
+      "providers": [
+        {
+          "name": "Ctrip",
+          "type": "china-ota",
+          "webUrl": "https://flights.ctrip.com/online/list/oneway-CAI-HRG?depdate=2026-07-27",
+          "appUrl": "ctrip://wireless/flight",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Google Flights",
+          "type": "metasearch",
+          "webUrl": "https://www.google.com/travel/flights",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Trip.com",
+          "type": "international-ota",
+          "webUrl": "https://www.trip.com/flights/",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Airline Official Website",
+          "type": "airline",
+          "webUrl": "",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        }
+      ],
+      "latestQuery": {
+        "provider": "public planning estimate",
+        "flightNumber": "",
+        "airline": "",
+        "departureAt": "",
+        "arrivalAt": "",
+        "durationMinutes": null,
+        "stops": null,
+        "baggage": "Needs recheck on ticketing platform",
+        "fareName": "",
+        "amount": 61.11,
+        "currency": "EUR",
+        "cnyAmount": 473,
+        "queriedAt": "2026-06-27T00:00:00+08:00",
+        "bookingUrl": "https://www.obilet.com/en/flight-ticket/cairo-hurghada",
+        "notes": "Obilet public starting fare from previous query."
+      }
+    },
+    {
+      "id": "egypt-china-2026-07-29",
+      "date": "2026-07-29",
+      "origin": {
+        "iata": "CAI/HRG",
+        "nameZh": "开罗或赫尔格达"
+      },
+      "destination": {
+        "iataOptions": [
+          "PVG",
+          "WUH"
+        ],
+        "nameZh": "上海或武汉"
+      },
+      "tripType": "one-way",
+      "passengers": 1,
+      "cabin": "economy",
+      "providers": [
+        {
+          "name": "Ctrip",
+          "type": "china-ota",
+          "webUrl": "https://flights.ctrip.com/online/list/oneway-CAI/HRG-PVG?depdate=2026-07-29",
+          "appUrl": "ctrip://wireless/flight",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Google Flights",
+          "type": "metasearch",
+          "webUrl": "https://www.google.com/travel/flights",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Trip.com",
+          "type": "international-ota",
+          "webUrl": "https://www.trip.com/flights/",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        },
+        {
+          "name": "Airline Official Website",
+          "type": "airline",
+          "webUrl": "",
+          "appUrl": "",
+          "lastQueriedAt": "2026-06-27T00:00:00+08:00"
+        }
+      ],
+      "latestQuery": {
+        "provider": "public planning estimate",
+        "flightNumber": "",
+        "airline": "",
+        "departureAt": "",
+        "arrivalAt": "",
+        "durationMinutes": null,
+        "stops": null,
+        "baggage": "Needs recheck on ticketing platform",
+        "fareName": "",
+        "amount": 4500,
+        "currency": "CNY",
+        "cnyAmount": 4500,
+        "queriedAt": "2026-06-27T00:00:00+08:00",
+        "bookingUrl": "https://www.google.com/travel/flights",
+        "notes": "International return estimate; exact route depends on live inventory."
+      }
+    }
+  ]
+}

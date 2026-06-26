@@ -1,0 +1,14 @@
+{
+  "lastRunAt": "2026-06-27T00:00:00+08:00",
+  "operator": "agent-with-user-login-ready",
+  "items": [
+    {
+      "targetId": "all-public-planning-data",
+      "targetType": "website-data",
+      "platform": "public sources",
+      "status": "success",
+      "queriedAt": "2026-06-27T00:00:00+08:00",
+      "note": "Generated structured data and safe recheck links. No credentials, cookies, tokens, or login-state files were saved."
+    }
+  ]
+}

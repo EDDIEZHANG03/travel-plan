@@ -1,2 +1,8 @@
 .DS_Store
 *.log
+.browser-profile/
+.auth/
+cookies.json
+storage-state.json
+*.session.json
+.env

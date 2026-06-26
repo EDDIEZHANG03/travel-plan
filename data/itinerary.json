@@ -1,0 +1,426 @@
+{
+  "title": "武汉出发 · 土耳其 + 埃及 2026",
+  "dateRange": "2026-07-15 to 2026-07-29/30",
+  "notice": "Prices are from the most recent saved query and may change with inventory and time. Recheck on the platform before purchasing.",
+  "days": [
+    {
+      "id": 0,
+      "label": "总览",
+      "date": "2026-07-15 至 2026-07-29/30",
+      "title": "武汉出发 · 土耳其 + 埃及",
+      "color": "#2563eb",
+      "items": []
+    },
+    {
+      "id": 1,
+      "label": "D1",
+      "date": "7/15 周三 · 武汉 → 伊斯坦布尔",
+      "title": "出发与落地恢复",
+      "color": "#2563eb",
+      "items": [
+        {
+          "placeId": "wuhan-tianhe-airport",
+          "time": "上午/中午"
+        },
+        {
+          "placeId": "istanbul-airports",
+          "time": "下午/晚上"
+        },
+        {
+          "placeId": "istanbul-sultanahmet-karakoy-area",
+          "time": "晚上"
+        },
+        {
+          "placeId": "istanbul-sultanahmet-dinner-area",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "D2",
+      "date": "7/16 周四 · 伊斯坦布尔老城",
+      "title": "圣索菲亚、蓝色清真寺、地下水宫",
+      "color": "#16a34a",
+      "items": [
+        {
+          "placeId": "istanbul-hagia-sophia",
+          "time": "09:00"
+        },
+        {
+          "placeId": "istanbul-blue-mosque",
+          "time": "10:30"
+        },
+        {
+          "placeId": "istanbul-basilica-cistern",
+          "time": "11:45"
+        },
+        {
+          "placeId": "istanbul-old-city-lunch-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "istanbul-topkapi-palace",
+          "time": "14:30"
+        },
+        {
+          "placeId": "istanbul-grand-bazaar",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "D3",
+      "date": "7/17 周五 · 博斯普鲁斯 + Galata / Kadikoy",
+      "title": "水上视角和生活街区",
+      "color": "#f59e0b",
+      "items": [
+        {
+          "placeId": "istanbul-eminonu-pier",
+          "time": "09:30"
+        },
+        {
+          "placeId": "istanbul-bosphorus-cruise",
+          "time": "10:00"
+        },
+        {
+          "placeId": "istanbul-karakoy-lunch-area",
+          "time": "12:30"
+        },
+        {
+          "placeId": "istanbul-galata-tower",
+          "time": "14:00"
+        },
+        {
+          "placeId": "istanbul-kadikoy-market",
+          "time": "16:30"
+        },
+        {
+          "placeId": "istanbul-kadikoy-dinner-area",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "D4",
+      "date": "7/18 周六 · 伊斯坦布尔 → 卡帕多奇亚",
+      "title": "内飞到格雷梅，留日落",
+      "color": "#dc2626",
+      "items": [
+        {
+          "placeId": "istanbul-kayseri-flight",
+          "time": "上午"
+        },
+        {
+          "placeId": "goreme-stay-area",
+          "time": "15:00"
+        },
+        {
+          "placeId": "goreme-sunset-point",
+          "time": "18:00"
+        },
+        {
+          "placeId": "goreme-dinner-area",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "D5",
+      "date": "7/19 周日 · 卡帕多奇亚",
+      "title": "热气球 + 露天博物馆",
+      "color": "#0ea5e9",
+      "items": [
+        {
+          "placeId": "cappadocia-balloon",
+          "time": "04:30"
+        },
+        {
+          "placeId": "goreme-open-air-museum",
+          "time": "10:30"
+        },
+        {
+          "placeId": "goreme-lunch-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "uchisar-castle",
+          "time": "16:00"
+        },
+        {
+          "placeId": "love-valley-viewpoint",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "D6",
+      "date": "7/20 周一 · 卡帕多奇亚 → 安塔利亚",
+      "title": "热气球备份 + 长途转场",
+      "color": "#8b5cf6",
+      "items": [
+        {
+          "placeId": "goreme-balloon-backup",
+          "time": "04:30"
+        },
+        {
+          "placeId": "goreme-antalya-bus",
+          "time": "10:00/12:15"
+        },
+        {
+          "placeId": "antalya-kaleici-stay-area",
+          "time": "20:30"
+        },
+        {
+          "placeId": "antalya-kaleici-dinner-area",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "D7",
+      "date": "7/21 周二 · 安塔利亚",
+      "title": "地中海老城与海边",
+      "color": "#14b8a6",
+      "items": [
+        {
+          "placeId": "antalya-kaleici-old-town",
+          "time": "09:30"
+        },
+        {
+          "placeId": "antalya-old-harbor",
+          "time": "11:00"
+        },
+        {
+          "placeId": "antalya-lunch-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "antalya-duden-waterfalls",
+          "time": "15:30"
+        },
+        {
+          "placeId": "antalya-konyaalti-beach",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "D8",
+      "date": "7/22 周三 · 安塔利亚 → 费特希耶",
+      "title": "巴士到费特希耶，傍晚海边",
+      "color": "#ec4899",
+      "items": [
+        {
+          "placeId": "antalya-fethiye-bus",
+          "time": "09:00"
+        },
+        {
+          "placeId": "fethiye-marina-stay-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "fethiye-lunch-area",
+          "time": "14:00"
+        },
+        {
+          "placeId": "oludeniz-beach",
+          "time": "16:30"
+        },
+        {
+          "placeId": "fethiye-fish-market",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "D9",
+      "date": "7/23 周四 · 费特希耶",
+      "title": "蓝色海岸完整日",
+      "color": "#06b6d4",
+      "items": [
+        {
+          "placeId": "oludeniz-paragliding",
+          "time": "08:30"
+        },
+        {
+          "placeId": "kayakoy",
+          "time": "12:30"
+        },
+        {
+          "placeId": "fethiye-meal-area",
+          "time": "13:30"
+        },
+        {
+          "placeId": "calis-beach",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "D10",
+      "date": "7/24 周五 · 费特希耶 → 开罗",
+      "title": "回安塔利亚飞埃及",
+      "color": "#64748b",
+      "items": [
+        {
+          "placeId": "fethiye-antalya-transfer",
+          "time": "07:30"
+        },
+        {
+          "placeId": "antalya-cairo-flight",
+          "time": "下午"
+        },
+        {
+          "placeId": "cairo-giza-stay-area",
+          "time": "晚上"
+        },
+        {
+          "placeId": "cairo-zamalek-dinner-area",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "D11",
+      "date": "7/25 周六 · 开罗 Giza",
+      "title": "金字塔 + GEM",
+      "color": "#eab308",
+      "items": [
+        {
+          "placeId": "giza-pyramid-complex",
+          "time": "08:00"
+        },
+        {
+          "placeId": "great-sphinx",
+          "time": "10:30"
+        },
+        {
+          "placeId": "giza-lunch-area",
+          "time": "12:30"
+        },
+        {
+          "placeId": "grand-egyptian-museum",
+          "time": "14:30"
+        },
+        {
+          "placeId": "giza-dinner-area",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "D12",
+      "date": "7/26 周日 · 开罗市区",
+      "title": "伊斯兰开罗与城市餐饮",
+      "color": "#a855f7",
+      "items": [
+        {
+          "placeId": "cairo-citadel",
+          "time": "09:00"
+        },
+        {
+          "placeId": "muhammad-ali-mosque",
+          "time": "10:30"
+        },
+        {
+          "placeId": "khan-lunch-area",
+          "time": "12:30"
+        },
+        {
+          "placeId": "khan-el-khalili",
+          "time": "14:00"
+        },
+        {
+          "placeId": "egyptian-museum-tahrir",
+          "time": "16:30"
+        },
+        {
+          "placeId": "zamalek-nile-dinner-area",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "label": "D13",
+      "date": "7/27 周一 · 开罗 → 赫尔格达",
+      "title": "到红海，下午放空",
+      "color": "#0891b2",
+      "items": [
+        {
+          "placeId": "cairo-hurghada-flight",
+          "time": "上午"
+        },
+        {
+          "placeId": "hurghada-resort-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "hurghada-marina",
+          "time": "16:30"
+        },
+        {
+          "placeId": "hurghada-dinner-area",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "D14",
+      "date": "7/28 周二 · 赫尔格达",
+      "title": "红海浮潜或酒店休息",
+      "color": "#0284c7",
+      "items": [
+        {
+          "placeId": "giftun-orange-bay-tour",
+          "time": "08:30"
+        },
+        {
+          "placeId": "hurghada-beach-lunch-area",
+          "time": "13:00"
+        },
+        {
+          "placeId": "hurghada-marina-sunset",
+          "time": "17:30"
+        },
+        {
+          "placeId": "hurghada-resort-dinner-area",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "D15",
+      "date": "7/29 周三 · 埃及 → 上海/武汉",
+      "title": "返程日，7/30 前到中国",
+      "color": "#475569",
+      "items": [
+        {
+          "placeId": "hurghada-cairo-return-transfer",
+          "time": "上午/下午"
+        },
+        {
+          "placeId": "cairo-international-airport",
+          "time": "下午/晚上"
+        },
+        {
+          "placeId": "shanghai-pvg-wuhan-wuh",
+          "time": "7/30 抵达"
+        }
+      ]
+    }
+  ]
+}
