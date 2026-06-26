@@ -1,0 +1,14 @@
+{
+  "base": "CNY",
+  "queriedAt": "2026-06-27T00:02:31+08:00",
+  "rates": {
+    "TRY": 0.1465,
+    "EGP": 0.13747,
+    "EUR": 7.73479,
+    "USD": 6.80856,
+    "CNY": 1
+  },
+  "sourceName": "ExchangeRate-API open.er-api.com",
+  "sourceUrl": "https://open.er-api.com/v6/latest/CNY",
+  "note": "Rates are CNY per one unit of the foreign currency, computed from the public CNY base response."
+}

@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-06-27T00:00:00+08:00",
+  "items": [
+    {
+      "name": "Turkey MFA visa information",
+      "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa"
+    },
+    {
+      "name": "Egypt e-Visa official portal",
+      "url": "https://visa2egypt.gov.eg/"
+    },
+    {
+      "name": "Türkiye Museums ticket portal",
+      "url": "https://muze.gov.tr/"
+    },
+    {
+      "name": "Grand Egyptian Museum",
+      "url": "https://gem.eg/"
+    },
+    {
+      "name": "Obilet Istanbul-Kayseri",
+      "url": "https://www.obilet.com/en/flight-ticket/istanbul-kayseri"
+    },
+    {
+      "name": "Obilet Goreme-Antalya",
+      "url": "https://www.obilet.com/en/bus-ticket/goreme-antalya"
+    },
+    {
+      "name": "Obilet Antalya-Fethiye",
+      "url": "https://www.obilet.com/en/bus-ticket/antalya-fethiye"
+    },
+    {
+      "name": "Obilet Antalya-Cairo",
+      "url": "https://www.obilet.com/en/flight-ticket/antalya-cairo"
+    },
+    {
+      "name": "Obilet Cairo-Hurghada",
+      "url": "https://www.obilet.com/en/flight-ticket/cairo-hurghada"
+    },
+    {
+      "name": "ExchangeRate-API",
+      "url": "https://open.er-api.com/v6/latest/CNY"
+    }
+  ]
+}
